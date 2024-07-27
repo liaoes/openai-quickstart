@@ -23,6 +23,13 @@
 
 
 
+# Day 3 homework
+
+[step 1](./img_4.png)
+
+
+[step 2](./img_5.png)
+
 
 
 
